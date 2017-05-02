@@ -1,6 +1,6 @@
 ## TaginpuHeroku
 
-[![Build Status](https://travis-ci.org/webcat12345/heroku-ng2-tag-input-test.svg?branch=master)](https://travis-ci.org/webcat12345/heroku-ng2-tag-input-test)
+[![Build Status](https://travis-ci.org/webcat12345/heroku-ng2-tag-input-test.svg?branch=master)](https://travis-ci.org/webcat12345/heroku-ng2-tag-input-test)  [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://ng2-tag-input-heroku-test.herokuapp.com/)
 
 Test project for implementing ng2-tag-input with angular-cli and Heroku
 
